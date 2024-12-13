@@ -1,4 +1,4 @@
-# 📝✨ Trabalhos do Terceiro Semestre da Faculdade 🎓💻
+## 📝✨ Trabalhos do Terceiro Semestre da Faculdade 🎓💻
 
 Bem-vindo(a) ao repositório com todos os trabalhos realizados no terceiro semestre! Aqui você encontrará os projetos e atividades que desenvolvi ao longo das disciplinas deste semestre, organizados de forma prática e acessível. 💡📚
 
